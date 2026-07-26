@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-labelledby="title4">
+  <title id="title4">Pulse Fitness UI project preview</title>
+  <defs>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D9F5"/>
+      <stop offset="100%" stop-color="#4834D4"/>
+    </linearGradient>
+    <radialGradient id="r4" cx="30%" cy="20%" r="80%">
+      <stop offset="0%" stop-color="#4834D4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#4834D4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="450" fill="#0B0E1A"/>
+  <rect width="600" height="450" fill="url(#r4)"/>
+  <rect x="0" y="0" width="600" height="46" fill="#141B34"/>
+  <circle cx="26" cy="23" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="23" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="23" r="6" fill="#27c93f"/>
+  <rect x="120" y="14" width="360" height="18" rx="9" fill="#0B0E1A" opacity="0.5"/>
+  <g opacity="0.9">
+    <rect x="60" y="100" width="480" height="120" rx="18" fill="url(#g4)" opacity="0.85"/>
+    <rect x="60" y="240" width="220" height="150" rx="18" fill="#141B34" stroke="url(#g4)" stroke-width="2"/>
+    <rect x="300" y="240" width="240" height="150" rx="18" fill="#141B34" stroke="url(#g4)" stroke-width="2"/>
+    <circle cx="150" cy="315" r="30" fill="url(#g4)"/>
+    <rect x="330" y="270" width="180" height="14" rx="7" fill="url(#g4)"/>
+    <rect x="330" y="298" width="140" height="10" rx="5" fill="#A0A8C0" opacity="0.5"/>
+    <rect x="330" y="318" width="160" height="10" rx="5" fill="#A0A8C0" opacity="0.3"/>
+  </g>
+</svg>
